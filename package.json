@@ -8,6 +8,7 @@
     "test:watch": "jest --watchAll",
     "compile": "tsc",
     "compile:watch": "tsc --watch",
+    "dev": "webpack --watch",
     "build": "webpack"
   },
   "keywords": [],
