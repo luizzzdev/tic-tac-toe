@@ -97,8 +97,8 @@ const main = (p5: P5) => {
   };
 
   p5.draw = () => {
-    p5.background(255);
     p5.strokeWeight(4);
+    p5.stroke('#142850');
 
     desenharTabuleiro();
 
